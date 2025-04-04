@@ -1,0 +1,5 @@
+# Maven specific files
+target/
+
+# VSCode specific files
+.vscode
